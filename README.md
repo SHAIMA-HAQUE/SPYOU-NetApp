@@ -6,3 +6,4 @@ There is an increase in violation of community guidelines due to increased usage
 We created a bot for Discord and Slack to detect any hate message or foul language which gets texted during a chat, to solve the above mentioned problem.
 This is an honest effort to filter what you see and guard your loved ones from the keyboard monsters.
 
+[![Demo Video-Spyou](https://ibb.co/NWywc3j)](https://www.youtube.com/watch?v=c0Yuqi6f2U0)
